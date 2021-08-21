@@ -1,2 +1,2 @@
-# bloggy
-Web aplication using Weppy framework
+# Bloggy
+Web application using Weppy framework
